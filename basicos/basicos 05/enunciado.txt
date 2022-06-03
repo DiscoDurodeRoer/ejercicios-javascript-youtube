@@ -1,0 +1,1 @@
+9. Recogiendo datos de un formulario con getElementById
