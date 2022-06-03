@@ -1,0 +1,1 @@
+1. Crea un boton y un contenedor, cuando pulsemos el boton debe desaparecer el contenedor, si lo pulsamos de nuevo aparecera.

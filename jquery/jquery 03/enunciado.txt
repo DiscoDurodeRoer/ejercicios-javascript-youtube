@@ -1,0 +1,4 @@
+3. Crea un input y 3 botones:
+	- Añadir: Añadirá a una lista el texto dado en el input, se debe comprobar si esta o no repetido.
+	- Eliminar: Eliminará de la lista el texto dado en el input, sino existe se informará la usuario.
+	- Eliminar todos: Elimina todos los elementos de la lista.

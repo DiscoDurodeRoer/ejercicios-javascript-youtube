@@ -1,0 +1,3 @@
+4. Crea un div, un div hijo dentro de este y 4 botones llamados "arriba", "derecha", "abajo" e "izquierda".
+
+Cuando pulsemos en un botón, el div hijo se moverá por el div padre sin salirse.
