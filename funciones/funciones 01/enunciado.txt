@@ -1,0 +1,4 @@
+1. Validar si un texto introducido es un numero.
+
+2. Generar un numero aleatorio entre 2 numeros, comprobar que estos son números.
+En caso de que el primero sea mayor que el segundo se intercambiaran.

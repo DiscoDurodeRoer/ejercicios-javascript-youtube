@@ -1,0 +1,5 @@
+6. Crea una funcion que cree un parrafo con Javascript.
+
+7. Crea una función que cree un enlace con Javascript.
+
+8. Crea una función que cree una lista con Javascript.

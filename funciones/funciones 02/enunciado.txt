@@ -1,0 +1,5 @@
+3. Realizar la suma de un array pasado por parametro. Validar si es un array.
+
+4. Realizar la media de un array pasado por parametro. Validar si es un array.
+
+5. Comprobar, dado un array y un elemento, si existe en el array. Validar si es un array.
