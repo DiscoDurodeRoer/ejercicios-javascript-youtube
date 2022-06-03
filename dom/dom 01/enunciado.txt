@@ -1,0 +1,5 @@
+1. Crea 3 parrafos con JavaScript.
+
+2. Crea un enlace con Javascript.
+
+3. Crea una lista desordenada de elementos con JavaScript.
