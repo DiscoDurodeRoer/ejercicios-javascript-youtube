@@ -1,0 +1,5 @@
+6. Crear dos input de numeros y un boton, al pulsar el boton, 
+mostrar en un alert quien es el mayor de los dos.
+
+7. Crear un boton que al pulsarlo genere una lista de 10 numeros aleatorios 
+en un select vacio. Al pulsar de nuevo, se reseteara la lista.

@@ -1,0 +1,3 @@
+11. Dado el formulario HTML. 
+Al pulsar el boton de añadir fecha debe de añadir una fecha correcta a un array. Debes poner un alert indicandolo.
+Al pulsar el boton de mostrar fechas, debera mostrar la fecha mayor, la menor y el numero de fechas introducidas

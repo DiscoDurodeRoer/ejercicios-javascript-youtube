@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="main.js"></script>
+    <title>Ejercicios basicos 7</title>
+</head>
+<body>
+
+    <form name="formFechas">
+
+        <label for="fecha">Fecha</label>
+        <input type="date" name="fecha" id="fecha" />
+
+        <button type="button" onclick="aniadirFecha()">Añadir fecha</button>
+        <button type="button" onclick="mostrarResultados()">Mostrar mayor, menor y numero de fechas</button>
+    </form>
+
+    <div id="resultados">
+        <p>La fecha mayor es: <span id="fechaMayor"></span></p>
+        <p>La fecha menor es: <span id="fechaMenor"></span></p>
+        <p>El numero de fechas es: <span id="numFechas"></span></p>
+    </div>
+
+    
+</body>
+</html>
