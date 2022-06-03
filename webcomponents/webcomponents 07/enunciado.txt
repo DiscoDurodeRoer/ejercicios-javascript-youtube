@@ -1,0 +1,1 @@
+7. Añade custom events al ddr-modal.

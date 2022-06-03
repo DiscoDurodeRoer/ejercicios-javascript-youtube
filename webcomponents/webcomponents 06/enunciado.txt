@@ -1,0 +1,1 @@
+6. Añade slot y un atributo visible a nuestro ddr-modal.

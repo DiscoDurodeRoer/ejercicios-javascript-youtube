@@ -1,0 +1,2 @@
+2. Crear un contador con webcomponet. 
+Dos botones y un input, al hacer click en los botones, aumentamos el valor en el input
