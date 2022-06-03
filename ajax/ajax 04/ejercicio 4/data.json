@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Fernando",
+        "apellidos": "Ureña Gomez",
+        "edad": "31"
+    },
+    {
+        "nombre": "Pepe",
+        "apellidos": "Caballero Almendro",
+        "edad": "36"
+    },
+    {
+        "nombre": "Alberto",
+        "apellidos": "Camacho Ujia",
+        "edad": "25"
+    },
+    {
+        "nombre": "Jose",
+        "apellidos": "Pantoja Esteso",
+        "edad": "47"
+    }
+]

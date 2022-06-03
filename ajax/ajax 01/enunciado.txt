@@ -1,0 +1,1 @@
+1. Crea una llamada AJAX para recoger el contenido de un fichero JSON.
