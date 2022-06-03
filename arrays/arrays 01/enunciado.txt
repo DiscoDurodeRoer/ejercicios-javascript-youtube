@@ -1,0 +1,8 @@
+1. Rellena un array con los numeros del 1 al 10. 
+Muestralo por la consola.
+
+2. Rellena un array con numeros aleatorios (10 por ejemplo). 
+Muestralo por la consola.
+
+3. Del array anterior, creale una copia (que no sea el mismo en sí). 
+Muestralos por la consola.

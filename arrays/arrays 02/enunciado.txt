@@ -1,0 +1,4 @@
+
+4. Dado un input y un boton, escribir nombres de personas 
+(no controlamos nada de momento) y lo mostramos en una lista desordenada. 
+Deberemos de guardar los nombres en un array y comprobar si existe el nombre en el array.
