@@ -1,0 +1,61 @@
+body {
+    font-family: "Times New Roman", Georgia, Serif;
+    text-align: justify;}
+h1 {
+    text-align: center;
+    letter-spacing: 5px;
+    margin-bottom: 50px;
+}
+p { 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 150px;
+    margin-left: 150px;
+        }
+
+
+.contenedor {
+        display: flex;
+        align-items: center;
+}
+.contenido {
+        margin: 0 auto; 
+}
+form fieldset {
+    display: inline-block;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
+form {
+    /* Centrar el formulario en la página */
+    margin: 0 auto;
+    width: 800px;
+    /* Esquema del formulario */
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+  }
+/* form{
+    width: 80%;
+    margin:auto;
+} */
+a.muestraoculta {  
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    
+    }
+
+a.muestraoculta:hover, a.muestraoculta:active {
+    background-color: green;
+    color: white;
+    }
+
+
+    

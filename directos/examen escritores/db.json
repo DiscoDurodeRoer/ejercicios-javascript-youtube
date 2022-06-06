@@ -1,0 +1,40 @@
+{
+  "escritores": [
+    {
+      "nombre": "Gabriel García Márquez",
+      "libro": "100 años de soledad",
+      "nacionalidad": "colombiano",
+      "id": 1
+    },
+    {
+      "nombre": "Mariana Enríquez",
+      "libro": "Las cosas que perdimos en el fuego",
+      "nacionalidad": "argentina",
+      "id": 2
+    },
+    {
+      "nombre": "Roberto Bolaño",
+      "libro": "Los detectives salvajes",
+      "nacionalidad": "chileno",
+      "id": 3
+    },
+    {
+      "nombre": "Julio Cortázar",
+      "libro": "Rayuela",
+      "nacionalidad": "argentino",
+      "id": 4
+    },
+    {
+      "nombre": "Juan Rulfo",
+      "libro": "Pedro Páramo",
+      "nacionalidad": "mejicano",
+      "id": 5
+    },
+    {
+      "nombre": "Carlos Fuentes",
+      "libro": "La muerte de Artemio Cruz",
+      "nacionalidad": "mejicano",
+      "id": 6
+    }
+  ]
+}
