@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ley d'Hondt</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
+</head>
+<body>
+
+    <main>
+        <header>
+            <h1>Ley d'Hondt</h1>
+        </header>
+
+        <form>
+            <div>
+                <span>Se ha de elegir <input type="number" name="seats" id="seats" class="small" value="0"> representantes</span>
+            </div>
+
+            <fieldset>
+                <legend>Campos opcionales</legend>
+
+                <div>
+                    <span>Mínimo de votos: <input type="number" name="threshold" id="threshold" class="small"  value="3">%</span>
+                </div>
+
+                <div>
+                    <span>En blanco: <input type="number" name="votesBlank" id="votesBlank" class="small" value="0"> votos</span>
+                </div>
+
+            </fieldset>
+
+            <fieldset>
+                <legend>Candidaturas</legend>
+
+                <div class="political-party">
+                    <label for="p1">Partido A</label>
+                    <input type="number" name="p1" id="p1" value="0">
+                </div>
+                
+                <div class="political-party">
+                    <label for="p1">Partido B</label>
+                    <input type="number" name="p2" id="p2" value="0">
+                </div>
+                
+                <div class="political-party">
+                    <label for="p1">Partido C</label>
+                    <input type="number" name="p3" id="p3" value="0">
+                </div>
+                
+                <div class="political-party">
+                    <label for="p1">Partido D</label>
+                    <input type="number" name="p4" id="p4" value="0">
+                </div>
+
+
+            </fieldset>
+                
+            <div class="wrapper-button">
+                <button id="calculate">Calcular escaños</button>
+            </div>
+
+        </form>
+
+    </main>
+    
+</body>
+</html>
